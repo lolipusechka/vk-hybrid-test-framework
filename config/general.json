@@ -1,0 +1,11 @@
+{
+  "browser": "chrome",
+  "headless": 0,
+  "page_load_strategy": "normal",
+  "window_size": {
+    "width": 1920,
+    "height": 1080
+  },
+  "time_out_in_seconds": 60,
+  "pause_in_seconds": 3
+}
